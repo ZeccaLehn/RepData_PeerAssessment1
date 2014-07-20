@@ -257,8 +257,7 @@ xyplot(means ~ interval | weekType, data = meanSetWeekType,  layout = c(1,2), ty
 
 Summary: There appears to be a difference in means between daily steps on weekends versus weekdays. Weekend daily steps appears larger. A test of differences may be appropriate, after concluding stationarity. An extra column for weekdays is included in the imputed set for further analyses.
     
-
-
+Access html view [here](http://htmlpreview.github.io/?https://github.com/ZeccaLehn/RepData_PeerAssessment1/blob/master/PA1_template.html).
 
 
 
